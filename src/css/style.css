@@ -1,0 +1,52 @@
+.bg {background-color: #f7f7f7;}
+
+.marginTop {margin-top: 44px;}
+.marginBottom {margin-bottom: 60px;}
+
+
+
+
+.sliderImg {display:block;width:100%;border:none;}
+
+.homeServiceContainer {margin:20px 0;}
+.homeServiceContainer h2{text-align: center;color:#DD3333;text-decoration: underline;font-size: 1.25em;}
+.homeService {margin-left: 10px;margin-right: 10px;display:flex;flex-direction: row;justify-content: center;align-items: center;}
+.homeServiceItem {flex:1;justify-content: center; align-items: center;}
+.homeServiceItem img {flexalign-self: center;margin:0 auto;padding:10px 20px 0 20px; width:100%;height: auto;}
+.homeServiceItem p {text-align: center;color:#333;}
+
+.slogan {background-color: #dd3333; color:#fff; padding:1em;font-size: 1.2em;text-align: center;}
+
+.aeopTitleCn {font-size: 1em; text-align: center; margin-top: 1.5em;}
+.aeopTitleEn {font-size: 0.9em; text-align: center; color:#dd3333;}
+.aeopImg {display: block; padding:0 10px; width: 100%;height: auto;}
+
+.aeopItem { display: flex; padding:0.2em 1em;}
+.aeopItem_left { padding:0.4em; width:33%; border:1px solid #dd3333; border-radius: 4px; display: flex; align-items: center; justify-content: center; text-align: center;}
+.aeopItem_right { width:65%; margin-left: 2%;}
+
+.aeopPrice { font-size: 1.2em; }
+
+
+.loading {display: flex; width: 100%; height: 100%; justify-content:center;align-items:center;}
+
+.pageContent { margin-top: 60px; }
+
+.pageContent img { display: block;margin:0 auto; max-width:100%; height: auto; }
+
+.newsContent { margin-top: 60px; }
+
+.newsItem { display:flex;flex-direction:row;clear:both; width:100%; height:auto; margin-bottom: 10px; border-bottom:1px solid #ccc;}
+.newsItemThumbnail { float:left; width: 30%; }
+.newsItemThumbnail img { min-width:80px; min-height:80px; width:100%; height: 100%; }
+.newsItemRight { float: left; width: 67%; margin-left: 3%; }
+.newsItem h3 { font-size: 0.9em; color:#555; font-weight: normal; }
+
+.newsinfo {}
+.newsinfo h2{font-size: 1em;margin:1em 0;}
+.newsinfo hr {height; border:none; border-top:1px solid #ddd;}
+.newsinfo img { display: bolck; margin:0 auto; max-width: 100%; height: auto;}
+
+
+
+
